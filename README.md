@@ -16,13 +16,13 @@ CompileCraft is a powerful Laravel and Vue.js-based application designed to stre
 ### First-time Setup
 
 1. **Account Creation**
-   - Visit the registration page at `your-domain.com/register`
+   - Visit the registration page at http://localhost:8080/register
    - Provide your work email, full name, and create a secure password
    - Verify your email address through the confirmation link
    - Complete your profile setup
 
 2. **Initial Login**
-   - Navigate to `your-domain.com/login`
+   - Navigate to http://localhost:8080/login
    - Enter your credentials
    - Review and accept the terms of service
    - Complete the initial system tour
@@ -40,13 +40,6 @@ The dashboard provides a centralized view of your activities and key metrics.
 - Project Deadlines
 - Quick Actions Menu
 
-#### Customization
-1. Click the "Customize Dashboard" button
-2. Drag and drop widgets to your preferred positions
-3. Toggle visibility of specific components
-4. Save your layout
-
-> **Tip**: Pin your most-used features for quick access from the dashboard.
 
 ### 2. Audience Management
 
@@ -61,13 +54,6 @@ The dashboard provides a centralized view of your activities and key metrics.
    - Set demographic criteria
    - Define behavioral attributes
    - Set engagement rules
-
-3. **Audience Segmentation**
-   - Create sub-segments
-   - Set targeting rules
-   - Define exclusion criteria
-
-> **Note**: Audience changes may take up to 5 minutes to reflect in reports.
 
 #### Managing Audiences
 
@@ -93,13 +79,6 @@ The dashboard provides a centralized view of your activities and key metrics.
    - Resource allocation
    - Registration settings
 
-#### Event Monitoring
-
-- Real-time attendance tracking
-- Engagement metrics
-- Resource utilization
-- Feedback collection
-
 ### 4. Project Management
 
 #### Project Lifecycle
@@ -115,12 +94,6 @@ The dashboard provides a centralized view of your activities and key metrics.
    - Progress tracking
    - Resource monitoring
    - Timeline updates
-
-3. **Closure**
-   - Deliverable verification
-   - Documentation
-   - Performance analysis
-   - Archive process
 
 ### 5. Document Management
 
@@ -178,7 +151,6 @@ The dashboard provides a centralized view of your activities and key metrics.
 
 #### Security Features
 
-- Two-factor authentication
 - Session management
 - Activity logging
 - Password policies
