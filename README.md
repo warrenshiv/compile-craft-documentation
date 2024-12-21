@@ -1,4 +1,4 @@
-# CompileCraft User Guide
+# CompileCraft Documentation
 
 ## Overview
 
